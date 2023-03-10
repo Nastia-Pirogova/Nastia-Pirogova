@@ -9,7 +9,7 @@
 
 🔭 I’m currently working on a lot of different stuff.
 
-⚡ Interesting fact: I draw.
+<!-- ⚡ Interesting fact: I draw. -->
 
 ## My stack
  
