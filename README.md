@@ -31,4 +31,4 @@
 
 <!-- https://ileriayo.github.io/markdown-badges/ -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nastia-Pirogova&theme=default)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nastia-Pirogova&theme=default) -->
