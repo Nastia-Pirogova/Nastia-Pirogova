@@ -4,7 +4,8 @@
 
 📫 How to reach me: pirogova.anastasiia@gmail.com
 
-🌱 I'm a Front-End Developer looking for a full-time job at an electronic products company that strives to make everyday life and business easier, more productive and more convenient.
+🌱 I'm a Front-End Developer 
+<!-- looking for a full-time job at an electronic products company that strives to make everyday life and business easier, more productive and more convenient.-->
 
 📝 I am a quick learner, responsible and ready for tasks.
 
