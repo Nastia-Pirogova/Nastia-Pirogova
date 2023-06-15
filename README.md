@@ -32,7 +32,7 @@
 
 
 <!-- https://ileriayo.github.io/markdown-badges/ -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Nastia-Pirogova=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Nastia-Pirogova=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
