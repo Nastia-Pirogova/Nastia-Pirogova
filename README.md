@@ -1,5 +1,5 @@
 ### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=10000&color=F7008F&width=435&lines=Hi+there%2C+I'm+Anastasiia+%F0%9F%91%8B)
-<!-- [![wakatime](https://wakatime.com/badge/user/4807bdf7-7b54-4855-8eab-02fe73f2f580.svg)](https://wakatime.com/@4807bdf7-7b54-4855-8eab-02fe73f2f580)  -->
+[![wakatime](https://wakatime.com/badge/user/4807bdf7-7b54-4855-8eab-02fe73f2f580.svg)](https://wakatime.com/@4807bdf7-7b54-4855-8eab-02fe73f2f580) 
 <!-- https://www.codewars.com/users/Nastia-Pirogova/badges/micro  -->
 
 📫 How to reach me: pirogova.anastasiia@gmail.com
@@ -32,5 +32,6 @@
 
 
 <!-- https://ileriayo.github.io/markdown-badges/ -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nastia-Pirogova&theme=default) -->
