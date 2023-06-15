@@ -32,7 +32,8 @@
 
 
 <!-- https://ileriayo.github.io/markdown-badges/ -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Nastia-Pirogova/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Nastia-Pirogova=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nastia-Pirogova&theme=default) -->
