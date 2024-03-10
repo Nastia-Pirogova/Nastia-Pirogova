@@ -13,5 +13,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nastia-pirogova&show_icons=true&locale=en" alt="nastia-pirogova" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nastia-pirogova&" alt="nastia-pirogova" /></p>
+<!--><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nastia-pirogova&" alt="nastia-pirogova" /></p>
 
