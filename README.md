@@ -5,7 +5,7 @@ WordPress Developer
 -------------------
 
 * 🌍  I'm based in Ukraine
-* ✉️  You can contact me at [pirogova.anastasiia@gmail.com](mailto:pirogova.anastasiia@gmail.com)
+* ✉️  You can contact me at [a.anastasia.pirogova@gmail.com](mailto:a.anastasia.pirogova@gmail.com)
 
 ### Skills
 
