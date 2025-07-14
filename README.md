@@ -9,7 +9,7 @@ class Myself:
 
     experience = [
         'Education Mentor',
-        'WordPrеss Engineer',
+        'WordPrеss Developer',
         'Front-End Developer'
     ]
 
