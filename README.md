@@ -1,5 +1,4 @@
 
-<img src = 'https://user-images.githubusercontent.com/93858009/188730308-fe255415-93b5-4764-9edc-c3a756185832.gif' width='300' align="right"/>
 
 
 ```python
@@ -25,10 +24,10 @@ class Myself:
         'Travel'
     ]
     
-    def Ambitions():
-	LearnMandarinChinese()
-	SpeakAtTedTalk()
-	FinishMyBook()
-	# Assume 2 more awesome ambitions here  ;)
+   def Ambitions():
+    BecomeITExpert()
+    LaunchOwnITCompany()
+    ImproveEnglishToC1()
+    SpeakPublicly()
     ]
   ```
