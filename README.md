@@ -1,15 +1,11 @@
-
-
-
 ```python
 class Myself:
     user = 'Anastasiia'
-    occupation = 'WordPrеss developer'
-   
+    occupation = 'WordPress developer'
 
     experience = [
         'Education Mentor',
-        'WordPrеss Developer',
+        'WordPress Developer',
         'Front-End Developer'
     ]
 
@@ -23,12 +19,13 @@ class Myself:
         'Drawing',
         'Travel'
     ]
-    
-   def Ambitions():
-    BecomeITExpert()
-    LaunchOwnITCompany()
-    ImproveEnglishToC1()
-    SpeakPublicly()
 
-Ambitions()
+    @staticmethod
+    def Ambitions():
+        BecomeITExpert()
+        LaunchOwnITCompany()
+        ImproveEnglishToC1()
+        SpeakPublicly()
+
+Myself.Ambitions()
   ```
